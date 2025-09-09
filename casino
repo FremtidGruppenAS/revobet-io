@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial RevoBet.io commit"
 git branch -M main
-git remote add origin https://github.com/DITT-BRUKERNAVN/revobet-io.git
+git remote add origin https://github.com/kontakt-1975/revobet-io.git
 git push -u origin main
