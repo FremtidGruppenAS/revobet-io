@@ -4,3 +4,6 @@ git commit -m "Initial RevoBet.io commit"
 git branch -M main
 git remote add origin https://github.com/FremtidGruppenAS/revobet-io.git
 git push -u origin main
+git add package.json package-lock.json
+git commit -m "Add vite as dev dependency"
+git push
